@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Test Account's home on the web!
+Hello, all! I'm Dongki Kim who is M.S. student at KAIST, advised by [Prof. Sung Ju Hwang](http://www.sungjuhwang.com/).
 
 A data-driven personal website
 ======
