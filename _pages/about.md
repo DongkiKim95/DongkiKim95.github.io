@@ -19,7 +19,6 @@ My research interests include:
 * Graph representation learning
 
 Email: cleverki [at] kaist [dot] ac [dot] kr <br>
-Debug Lines
 
 ## Preprints 
 - <font size="4"><b>Graph Generation with Destination-Driven Diffusion Mixture</b></font> [[paper]](https://arxiv.org/abs/2302.03596) <br>
