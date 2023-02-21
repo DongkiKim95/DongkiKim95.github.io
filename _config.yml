@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dongki Kim"
-  avatar           : "/assets/profile.png"
+  avatar           : "profile.jpg"
   bio              : "M.S. Student at KAIST"
   location         : "Seoul, Rep. of Korea"
   employer         :
