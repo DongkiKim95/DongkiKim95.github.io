@@ -20,19 +20,24 @@ My research interests include:
 
 Email: cleverki [at] kaist [dot] ac [dot] kr <br>
 
-## Preprints 
+
+
+## Conference
+- <font size="4"><b>Antibody-SGM: Antigen-Specific Joint Design of Antibody Sequence and Structure using Diffusion Models</b></font> [[paper]](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper143.pdf) <br>
+&#x200B; Xuezhi Xie, Jin Sub Lee, <U>Dongki Kim</U>, Jaehyeong Jo, Jisun Kim, Philip M. Kim <br>
+<span> Computation Biology Workshop at ICML **(CompBio @ ICML)**, </span> 2023
+
 - <font size="4"><b>Graph Generation with Destination-Predicting Diffusion Mixture</b></font> [[paper]](https://arxiv.org/abs/2302.03596) <br>
 &#x200B;Jaehyeong Jo\*, <U>Dongki Kim</U>\*, Sung Ju Hwang <br>
-<span style="color:darkred">**Preprint**</span> 2023
+<span> Machine Learning for Drug Discovery Workshop at ICLR **(MLDD @ ICLR)**, </span> 2023 **(Spotlight)**
 
-## Conference Publications
 - <font size="4"><b>Graph Self-supervised Learning with Accurate Discrepancy Learning</b></font> [[paper]](https://arxiv.org/abs/2202.02989) <br>
 &#x200B;<U>Dongki Kim</U>\*, Jinheon Baek\*, Sung Ju Hwang <br>
-<span style="color:darkred">**NeurIPS**</span> 2022
+<span> Conference on Neural Information Processing Systems **(NeurIPS)**, </span> 2022
 
 - <font size="4"><b>Edge Representation Learning with Hypergraphs</b></font> [[paper]](https://arxiv.org/abs/2106.15845) <br>
 &#x200B;Jaehyeong Jo\*, Jinheon Baek\*, Seul Lee\*, <U>Dongki Kim</U>, Minki Kang, Sung Ju Hwang <br>
-<span style="color:darkred">**NeurIPS**</span> 2021
+<span> Conference on Neural Information Processing Systems **(NeurIPS)**, </span> 2021
 
 <!-- (\*: equal contribution) -->
 
