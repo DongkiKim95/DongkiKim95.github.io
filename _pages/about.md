@@ -28,7 +28,7 @@ Email: cleverki [at] kaist [dot] ac [dot] kr <br>
 <span> International Conference on Machine Learning **(ICML)**, </span> 2024 <br>
 <span> Machine Learning for Drug Discovery Workshop at ICLR **(MLDD @ ICLR)**, </span> 2023 **(Spotlight)**
 
-- <font size="4"><b>Protein Representation Learning by Capturing Protein Sequence-Structure-Function Relationship</b></font> <br>
+- <font size="4"><b>Protein Representation Learning by Capturing Protein Sequence-Structure-Function Relationship</b></font> [[paper]](https://arxiv.org/abs/2405.06663) <br>
 &#x200B;Eunki Ko\*, Seul Lee\*, Minseon Kim\*, <U>Dongki Kim</U>, Sung Ju Hwang\* <br> 
 <span> ICLR Machine Learning for Genomics Explorations Workshop **(MLGenX @ ICLR)**</span>, 2024 **(Spotlight)**
 
