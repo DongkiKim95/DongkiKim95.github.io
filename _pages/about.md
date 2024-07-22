@@ -23,13 +23,20 @@ Email: cleverki [at] kaist [dot] ac [dot] kr <br>
 
 
 ## Conference
+- <font size="4"><b>Graph Generation with Diffusion Mixture</b></font> [[paper]](https://arxiv.org/abs/2302.03596) <br>
+&#x200B;Jaehyeong Jo\*, <U>Dongki Kim</U>\*, Sung Ju Hwang <br>
+<span> International Conference on Machine Learning **(ICML)**, </span> 2024 <br>
+<span> Machine Learning for Drug Discovery Workshop at ICLR **(MLDD @ ICLR)**, </span> 2023 **(Spotlight)**
+
+- <font size="4"><b>Protein Representation Learning by Capturing Protein Sequence-Structure-Function Relationship</b></font> <br>
+&#x200B;Eunki Ko\*, Seul Lee\*, Minseon Kim\*, <U>Dongki Kim</U>, Sung Ju Hwang\* <br> 
+<span> ICLR Machine Learning for Genomics Explorations Workshop **(MLGenX @ ICLR)**</span>, 2024 **(Spotlight)**
+
 - <font size="4"><b>Antibody-SGM: Antigen-Specific Joint Design of Antibody Sequence and Structure using Diffusion Models</b></font> [[paper]](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper143.pdf) <br>
 &#x200B; Xuezhi Xie, Jin Sub Lee, <U>Dongki Kim</U>, Jaehyeong Jo, Jisun Kim, Philip M. Kim <br>
 <span> Computation Biology Workshop at ICML **(CompBio @ ICML)**, </span> 2023
 
-- <font size="4"><b>Graph Generation with Destination-Predicting Diffusion Mixture</b></font> [[paper]](https://arxiv.org/abs/2302.03596) <br>
-&#x200B;Jaehyeong Jo\*, <U>Dongki Kim</U>\*, Sung Ju Hwang <br>
-<span> Machine Learning for Drug Discovery Workshop at ICLR **(MLDD @ ICLR)**, </span> 2023 **(Spotlight)**
+
 
 - <font size="4"><b>Graph Self-supervised Learning with Accurate Discrepancy Learning</b></font> [[paper]](https://arxiv.org/abs/2202.02989) <br>
 &#x200B;<U>Dongki Kim</U>\*, Jinheon Baek\*, Sung Ju Hwang <br>
