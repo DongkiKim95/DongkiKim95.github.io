@@ -8,15 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fisrt year PhD student at KAIST in [Machine Learning and Artificial Intelligence (MLAI) Lab](https://www.mlai-kaist.com/), under [Prof. Sung Ju Hwang](http://www.sungjuhwang.com/). 
+I am a second year PhD student at KAIST in [Machine Learning and Artificial Intelligence (MLAI) Lab](https://www.mlai-kaist.com/), under [Prof. Sung Ju Hwang](http://www.sungjuhwang.com/). 
 
-My research interest is mainly on developing deep learning models for understanding graph-structured data and generating graph topology and geometry. I have been working on representation learning and generative model for graph with the application in the molecular graph. Here is my [CV](https://DongkiKim95.github.io/files/CV.pdf).
-
-My research interests include:
-* Drug discovery
-* Molecular biology
-* Generative model
-* Graph representation learning
+My research primarily focuses on deep learning models to enhance our understanding of molecules and aid in molecular design. I have been working on diffusion models and representation learning for graph structures, particularly with applications to biomolecules. [[CV](https://DongkiKim95.github.io/files/CV.pdf)]
 
 Email: cleverki [at] kaist [dot] ac [dot] kr <br>
 
