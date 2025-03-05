@@ -10,13 +10,15 @@ redirect_from:
 
 I am a second year PhD student at KAIST in [Machine Learning and Artificial Intelligence (MLAI) Lab](https://www.mlai-kaist.com/), under [Prof. Sung Ju Hwang](http://www.sungjuhwang.com/). 
 
-My research primarily focuses on deep learning models to enhance our understanding of molecules and aid in molecular design. I have been working on diffusion models and representation learning for graph structures, particularly with applications to biomolecules. [[CV](https://DongkiKim95.github.io/files/CV.pdf)]
+I am interested in solving scientific problems with the purpose of enhancing our understanding of biomolecules and their complex system and the generation of biomolecular structures. I have been working on representation learning, diffusion models, and large language models for biomolecular structures. [[CV](https://DongkiKim95.github.io/files/CV.pdf)]
 
 Email: cleverki [at] kaist [dot] ac [dot] kr <br>
 
-
-
 ## Conference
+- <font size="4"><b>Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model</b></font> [[paper]](https://arxiv.org/abs/2502.13449) [[Project Page]](https://mol-llama.github.io/) <br>
+&#x200B;<U>Dongki Kim</U>, Wonbin Lee, Sung Ju Hwang <br>
+<span> Preprint, </span> 2025 <br>
+
 - <font size="4"><b>Graph Generation with Diffusion Mixture</b></font> [[paper]](https://arxiv.org/abs/2302.03596) <br>
 &#x200B;Jaehyeong Jo\*, <U>Dongki Kim</U>\*, Sung Ju Hwang <br>
 <span> International Conference on Machine Learning **(ICML)**, </span> 2024 <br>
@@ -29,8 +31,6 @@ Email: cleverki [at] kaist [dot] ac [dot] kr <br>
 - <font size="4"><b>Antibody-SGM: Antigen-Specific Joint Design of Antibody Sequence and Structure using Diffusion Models</b></font> [[paper]](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper143.pdf) <br>
 &#x200B; Xuezhi Xie, Jin Sub Lee, <U>Dongki Kim</U>, Jaehyeong Jo, Jisun Kim, Philip M. Kim <br>
 <span> Computation Biology Workshop at ICML **(CompBio @ ICML)**, </span> 2023
-
-
 
 - <font size="4"><b>Graph Self-supervised Learning with Accurate Discrepancy Learning</b></font> [[paper]](https://arxiv.org/abs/2202.02989) <br>
 &#x200B;<U>Dongki Kim</U>\*, Jinheon Baek\*, Sung Ju Hwang <br>
