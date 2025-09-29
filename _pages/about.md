@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student at KAIST in [Machine Learning and Artificial Intelligence (MLAI) Lab](https://www.mlai-kaist.com/), under [Prof. Sung Ju Hwang](http://www.sungjuhwang.com/). 
+I am a thrid year PhD student at KAIST in [Machine Learning and Artificial Intelligence (MLAI) Lab](https://www.mlai-kaist.com/), under [Prof. Sung Ju Hwang](http://www.sungjuhwang.com/). 
 
-I am interested in solving scientific problems with the purpose of enhancing our understanding of biomolecules and their complex system and the generation of biomolecular structures. I have been working on representation learning, diffusion models, and large language models for biomolecular structures. [[CV](https://DongkiKim95.github.io/files/CV.pdf)]
+I am a third-year PhD student advised by Sung Ju Hwang. I have been working on the intersections of AI and life science, bridging their gap by modeling biomolecules and their complex system via representation learning, generative models, and LLMs. [[CV](https://DongkiKim95.github.io/files/CV.pdf)]
 
 Email: cleverki [at] kaist [dot] ac [dot] kr <br>
 
 ## Conference
 - <font size="4"><b>Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model</b></font> [[paper]](https://arxiv.org/abs/2502.13449) [[Project Page]](https://mol-llama.github.io/) <br>
 &#x200B;<U>Dongki Kim</U>, Wonbin Lee, Sung Ju Hwang <br>
-<span> Preprint, </span> 2025 <br>
+<span> Conference on Neural Information Processing Systems **(NeurIPS)**, </span> 2025 <br>
+<span> AI for Science at NeurIPS **(AI4Science @ NeurIPS)**, </span> 2025 <br>
 
 - <font size="4"><b>Graph Generation with Diffusion Mixture</b></font> [[paper]](https://arxiv.org/abs/2302.03596) <br>
 &#x200B;Jaehyeong Jo\*, <U>Dongki Kim</U>\*, Sung Ju Hwang <br>
