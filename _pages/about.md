@@ -41,6 +41,15 @@ Email: cleverki [at] kaist [dot] ac [dot] kr <br>
 &#x200B;Jaehyeong Jo\*, Jinheon Baek\*, Seul Lee\*, <U>Dongki Kim</U>, Minki Kang, Sung Ju Hwang <br>
 <span> Conference on Neural Information Processing Systems **(NeurIPS)**, </span> 2021
 
+## Preprint
+- <font size="4"><b>Multimodal Prompt Optimization: Why Not Leverage Multiple Modalities for MLLMs</b></font> [[paper]](https://arxiv.org/abs/2510.09201)
+<br>
+&#x200B;Yumin Choi\*, <U>Dongki Kim</U>\*, Jinheon Baek, Sung Ju Hwang <br>
+
+- <font size="4"><b>Rethinking Reward Models for Multi-Domain Test-Time Scaling</b></font> [[paper]](https://arxiv.org/abs/2510.00492)
+<br>
+&#x200B;Dong Bok Lee\*, Seanie Lee\*, Sangwoo Park, Minki Kang, Jinheon Baek, <U>Dongki Kim</U>, Dominik Wagner, Jiongdao Jin, Heejun Lee, Tobias Bocklet, Jinyu Wang, Jingjing Fu, Sung Ju Hwang, Jiang Bian, Lei Song <br>
+
 <!-- (\*: equal contribution) -->
 
 
