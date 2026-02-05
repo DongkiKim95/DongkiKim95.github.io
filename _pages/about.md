@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a thrid year PhD student at KAIST in [Machine Learning and Artificial Intelligence (MLAI) Lab](https://www.mlai-kaist.com/), under [Prof. Sung Ju Hwang](http://www.sungjuhwang.com/). 
-
-I am a third-year PhD student advised by Sung Ju Hwang. I have been working on the intersections of AI and life science, bridging their gap by modeling biomolecules and their complex system via representation learning, generative models, and LLMs. [[CV](https://DongkiKim95.github.io/files/_CV__2026_02_05.pdf)]
+I am a thrid year PhD student at KAIST in [Machine Learning and Artificial Intelligence (MLAI) Lab](https://www.mlai-kaist.com/), under [Prof. Sung Ju Hwang](http://www.sungjuhwang.com/). I have been working on the intersections of AI and life science, bridging their gap by modeling biomolecules and their complex system via representation learning, generative models, and LLMs. [[CV](https://DongkiKim95.github.io/files/_CV__2026_02_05.pdf)]
 
 Email: cleverki [at] kaist [dot] ac [dot] kr <br>
 
