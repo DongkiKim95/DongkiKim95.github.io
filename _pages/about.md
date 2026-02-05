@@ -10,12 +10,17 @@ redirect_from:
 
 I am a thrid year PhD student at KAIST in [Machine Learning and Artificial Intelligence (MLAI) Lab](https://www.mlai-kaist.com/), under [Prof. Sung Ju Hwang](http://www.sungjuhwang.com/). 
 
-I am a third-year PhD student advised by Sung Ju Hwang. I have been working on the intersections of AI and life science, bridging their gap by modeling biomolecules and their complex system via representation learning, generative models, and LLMs. [[CV](https://DongkiKim95.github.io/files/CV.pdf)]
+I am a third-year PhD student advised by Sung Ju Hwang. I have been working on the intersections of AI and life science, bridging their gap by modeling biomolecules and their complex system via representation learning, generative models, and LLMs. [[CV](https://DongkiKim95.github.io/files/_CV__2026_02_05.pdf)]
 
 Email: cleverki [at] kaist [dot] ac [dot] kr <br>
 
 ## Conference
-- <font size="4"><b>Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model</b></font> [[paper]](https://arxiv.org/abs/2502.13449) [[Project Page]](https://mol-llama.github.io/) <br>
+- <font size="4"><b>Multimodal Prompt Optimization: Why Not Leverage Multiple Modalities for MLLMs</b></font> [[paper]](https://arxiv.org/abs/2510.09201)
+<br>
+&#x200B;Yumin Choi\*, <U>Dongki Kim</U>\*, Jinheon Baek, Sung Ju Hwang <br>
+International Conference on Learning Representations (ICLR), 2026
+
+- <font size="4"><b>Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model</b></font> [[paper]](https://arxiv.org/abs/2502.13449) [[project page]](https://mol-llama.github.io/) <br>
 &#x200B;<U>Dongki Kim</U>, Wonbin Lee, Sung Ju Hwang <br>
 <span> Conference on Neural Information Processing Systems **(NeurIPS)**, </span> 2025 <br>
 <span> AI for Science at NeurIPS **(AI4Science @ NeurIPS)**, </span> 2025 <br>
@@ -42,26 +47,8 @@ Email: cleverki [at] kaist [dot] ac [dot] kr <br>
 <span> Conference on Neural Information Processing Systems **(NeurIPS)**, </span> 2021
 
 ## Preprint
-- <font size="4"><b>Multimodal Prompt Optimization: Why Not Leverage Multiple Modalities for MLLMs</b></font> [[paper]](https://arxiv.org/abs/2510.09201)
-<br>
-&#x200B;Yumin Choi\*, <U>Dongki Kim</U>\*, Jinheon Baek, Sung Ju Hwang <br>
+
 
 - <font size="4"><b>Rethinking Reward Models for Multi-Domain Test-Time Scaling</b></font> [[paper]](https://arxiv.org/abs/2510.00492)
 <br>
 &#x200B;Dong Bok Lee\*, Seanie Lee\*, Sangwoo Park, Minki Kang, Jinheon Baek, <U>Dongki Kim</U>, Dominik Wagner, Jiongdao Jin, Heejun Lee, Tobias Bocklet, Jinyu Wang, Jingjing Fu, Sung Ju Hwang, Jiang Bian, Lei Song <br>
-
-<!-- (\*: equal contribution) -->
-
-
-<!-- ## Education
-- **Korea Advanced Institute of Science and Technology** \\
-  <font size="3">Aug. 2021 - </font>
-  Ph.d. in Graduate School of Artificial Intelligence
-
-- **Korea Advanced Institute of Science and Technology** \\
-  <font size="3">Mar. 2020 - Aug. 2021</font>
-  M.S. in Mathematical Sciences
-
-- **Korea Advanced Institute of Science and Technology** \\
-  <font size="3">Mar. 2016 - Feb. 2020</font>
-  B.S. in Mathematical Sciences -->
