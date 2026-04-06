@@ -50,3 +50,7 @@ International Conference on Learning Representations (ICLR), 2026
 - <font size="4"><b>Rethinking Reward Models for Multi-Domain Test-Time Scaling</b></font> [[paper]](https://arxiv.org/abs/2510.00492)
 <br>
 &#x200B;Dong Bok Lee\*, Seanie Lee\*, Sangwoo Park, Minki Kang, Jinheon Baek, <U>Dongki Kim</U>, Dominik Wagner, Jiongdao Jin, Heejun Lee, Tobias Bocklet, Jinyu Wang, Jingjing Fu, Sung Ju Hwang, Jiang Bian, Lei Song <br>
+
+- <font size="4"><b>ES-Merging: Biological MLLM Merging via Embedding Space Signals</b></font> [[paper]](https://arxiv.org/abs/2603.14405)
+<br>
+&#x200B;Wonbin Lee\*, <U>Dongki Kim</U>\*, Sung Ju Hwang <br>
