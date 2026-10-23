@@ -16,7 +16,7 @@ Email: cleverki [at] kaist [dot] ac [dot] kr <br>
 
 - <font size="4"><b>Principia: Test-Time Hypotheses to Principle Construction for Scientific Discovery</b></font> <br>
 &#x200B;<U>Dongki Kim</U>\*, Sangwoo Park\*, Jinheon Baek, Soyeong Jeong, Sung Ju Hwang <br>
-Manuscript in preparation, 2026
+arXiv, 2026
 
 - <font size="4"><b>AutoSciBench: Autonomous Benchmark Generation for Evaluating Scientific Agents</b></font> [[paper]](https://arxiv.org/abs/2610.05140) <br>
 &#x200B;<U>Dongki Kim</U>, Namkyeong Lee, Surag Nair, Carl Edwards, Xiner Li, Edward De Brouwer, Jenna Lynn Collier, Sung Ju Hwang, Gabriele Scalia, Ehsan Hajiramezanali <br>
