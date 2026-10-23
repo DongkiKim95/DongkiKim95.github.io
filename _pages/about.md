@@ -12,7 +12,30 @@ I am a third year PhD student at KAIST in [Machine Learning and Artificial Intel
 
 Email: cleverki [at] kaist [dot] ac [dot] kr <br>
 
-## Conference
+## Publications
+
+- <font size="4"><b>Principia: Test-Time Hypotheses to Principle Construction for Scientific Discovery</b></font> <br>
+&#x200B;<U>Dongki Kim</U>\*, Sangwoo Park\*, Jinheon Baek, Soyeong Jeong, Sung Ju Hwang <br>
+Manuscript in preparation, 2026
+
+- <font size="4"><b>AutoSciBench: Autonomous Benchmark Generation for Evaluating Scientific Agents</b></font> [[paper]](https://arxiv.org/abs/2610.05140) <br>
+&#x200B;<U>Dongki Kim</U>, Namkyeong Lee, Surag Nair, Carl Edwards, Xiner Li, Edward De Brouwer, Jenna Lynn Collier, Sung Ju Hwang, Gabriele Scalia, Ehsan Hajiramezanali <br>
+arXiv preprint, 2026
+
+- <font size="4"><b>AdaPath: Query-Adaptive Path-Finding via Path-Bank for Multi-Hop Implicit Biomedical KGQA</b></font> [[paper]](https://arxiv.org/abs/2608.30556) <br>
+&#x200B;Jun Hyeong Kim, <U>Dongki Kim</U>, Yinhua Piao, Sung Ju Hwang <br>
+Conference on Empirical Methods in Natural Language Processing **(EMNLP)**, 2026
+
+- <font size="4"><b>ES-Merging: Biological MLLM Merging via Embedding Space Signals</b></font> [[paper]](https://arxiv.org/abs/2603.14405)
+<br>
+&#x200B;Wonbin Lee\*, <U>Dongki Kim</U>\*, Sung Ju Hwang <br>
+Conference on Neural Information Processing Systems **(NeurIPS)**, 2026
+
+- <font size="4"><b>Rethinking Reward Models for Multi-Domain Test-Time Scaling</b></font> [[paper]](https://arxiv.org/abs/2510.00492)
+<br>
+&#x200B;Dong Bok Lee\*, Seanie Lee\*, Sangwoo Park, Minki Kang, Jinheon Baek, <U>Dongki Kim</U>, Dominik Wagner, Jiongdao Jin, Heejun Lee, Tobias Bocklet, Jinyu Wang, Jingjing Fu, Sung Ju Hwang, Jiang Bian, Lei Song <br>
+Transactions on Machine Learning Research **(TMLR)**, 2026
+
 - <font size="4"><b>Multimodal Prompt Optimization: Why Not Leverage Multiple Modalities for MLLMs</b></font> [[paper]](https://arxiv.org/abs/2510.09201)
 <br>
 &#x200B;Yumin Choi\*, <U>Dongki Kim</U>\*, Jinheon Baek, Sung Ju Hwang <br>
@@ -43,14 +66,3 @@ International Conference on Learning Representations (ICLR), 2026
 - <font size="4"><b>Edge Representation Learning with Hypergraphs</b></font> [[paper]](https://arxiv.org/abs/2106.15845) <br>
 &#x200B;Jaehyeong Jo\*, Jinheon Baek\*, Seul Lee\*, <U>Dongki Kim</U>, Minki Kang, Sung Ju Hwang <br>
 <span> Conference on Neural Information Processing Systems **(NeurIPS)**, </span> 2021
-
-## Preprint
-
-
-- <font size="4"><b>Rethinking Reward Models for Multi-Domain Test-Time Scaling</b></font> [[paper]](https://arxiv.org/abs/2510.00492)
-<br>
-&#x200B;Dong Bok Lee\*, Seanie Lee\*, Sangwoo Park, Minki Kang, Jinheon Baek, <U>Dongki Kim</U>, Dominik Wagner, Jiongdao Jin, Heejun Lee, Tobias Bocklet, Jinyu Wang, Jingjing Fu, Sung Ju Hwang, Jiang Bian, Lei Song <br>
-
-- <font size="4"><b>ES-Merging: Biological MLLM Merging via Embedding Space Signals</b></font> [[paper]](https://arxiv.org/abs/2603.14405)
-<br>
-&#x200B;Wonbin Lee\*, <U>Dongki Kim</U>\*, Sung Ju Hwang <br>
