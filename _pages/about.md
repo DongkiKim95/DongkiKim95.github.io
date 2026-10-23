@@ -39,7 +39,7 @@ Transactions on Machine Learning Research **(TMLR)**, 2026
 - <font size="4"><b>Multimodal Prompt Optimization: Why Not Leverage Multiple Modalities for MLLMs</b></font> [[paper]](https://arxiv.org/abs/2510.09201)
 <br>
 &#x200B;Yumin Choi\*, <U>Dongki Kim</U>\*, Jinheon Baek, Sung Ju Hwang <br>
-International Conference on Learning Representations (ICLR), 2026
+International Conference on Learning Representations **(ICLR)**, 2026
 
 - <font size="4"><b>Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model</b></font> [[paper]](https://arxiv.org/abs/2502.13449) [[project page]](https://mol-llama.github.io/) <br>
 &#x200B;<U>Dongki Kim</U>, Wonbin Lee, Sung Ju Hwang <br>
