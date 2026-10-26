@@ -14,7 +14,7 @@ Email: cleverki [at] kaist [dot] ac [dot] kr <br>
 
 ## Publications
 
-- <font size="4"><b>Principia: Test-Time Hypotheses to Principle Construction for Scientific Discovery</b></font> <br>
+- <font size="4"><b>Principia: Test-Time Hypotheses to Principle Construction for Scientific Discovery</b></font> [[paper]](https://arxiv.org/abs/2610.32195) <br>
 &#x200B;<U>Dongki Kim</U>\*, Sangwoo Park\*, Jinheon Baek, Soyeong Jeong, Sung Ju Hwang <br>
 arXiv preprint, 2026
 
