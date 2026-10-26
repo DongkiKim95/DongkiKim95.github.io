@@ -24,45 +24,43 @@ arXiv preprint, 2026
 
 - <font size="4"><b>AdaPath: Query-Adaptive Path-Finding via Path-Bank for Multi-Hop Implicit Biomedical KGQA</b></font> [[paper]](https://arxiv.org/abs/2608.30556) <br>
 &#x200B;Jun Hyeong Kim, <U>Dongki Kim</U>, Yinhua Piao, Sung Ju Hwang <br>
-Conference on Empirical Methods in Natural Language Processing **(EMNLP)**, 2026
+<em>Conference on Empirical Methods in Natural Language Processing</em> <strong>(EMNLP)</strong>, 2026
 
-- <font size="4"><b>ES-Merging: Biological MLLM Merging via Embedding Space Signals</b></font> [[paper]](https://arxiv.org/abs/2603.14405)
-<br>
+- <font size="4"><b>ES-Merging: Biological MLLM Merging via Embedding Space Signals</b></font> [[paper]](https://arxiv.org/abs/2603.14405) <br>
 &#x200B;Wonbin Lee\*, <U>Dongki Kim</U>\*, Sung Ju Hwang <br>
-Conference on Neural Information Processing Systems **(NeurIPS)**, 2026
+<em>Conference on Neural Information Processing Systems</em> <strong>(NeurIPS)</strong>, 2026
 
-- <font size="4"><b>Rethinking Reward Models for Multi-Domain Test-Time Scaling</b></font> [[paper]](https://arxiv.org/abs/2510.00492)
-<br>
+- <font size="4"><b>Rethinking Reward Models for Multi-Domain Test-Time Scaling</b></font> [[paper]](https://arxiv.org/abs/2510.00492) <br>
 &#x200B;Dong Bok Lee\*, Seanie Lee\*, Sangwoo Park, Minki Kang, Jinheon Baek, <U>Dongki Kim</U>, Dominik Wagner, Jiongdao Jin, Heejun Lee, Tobias Bocklet, Jinyu Wang, Jingjing Fu, Sung Ju Hwang, Jiang Bian, Lei Song <br>
-Transactions on Machine Learning Research **(TMLR)**, 2026
+<em>Transactions on Machine Learning Research</em> <strong>(TMLR)</strong>, 2026 <br>
+<em>Conference on Neural Information Processing Systems</em> <strong>(NeurIPS)</strong>, 2026
 
-- <font size="4"><b>Multimodal Prompt Optimization: Why Not Leverage Multiple Modalities for MLLMs</b></font> [[paper]](https://arxiv.org/abs/2510.09201)
-<br>
+- <font size="4"><b>Multimodal Prompt Optimization: Why Not Leverage Multiple Modalities for MLLMs</b></font> [[paper]](https://arxiv.org/abs/2510.09201) <br>
 &#x200B;Yumin Choi\*, <U>Dongki Kim</U>\*, Jinheon Baek, Sung Ju Hwang <br>
-International Conference on Learning Representations **(ICLR)**, 2026
+<em>International Conference on Learning Representations</em> <strong>(ICLR)</strong>, 2026
 
 - <font size="4"><b>Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model</b></font> [[paper]](https://arxiv.org/abs/2502.13449) [[project page]](https://mol-llama.github.io/) <br>
 &#x200B;<U>Dongki Kim</U>, Wonbin Lee, Sung Ju Hwang <br>
-<span> Conference on Neural Information Processing Systems **(NeurIPS)**, </span> 2025 <br>
-<span> AI for Science at NeurIPS **(AI4Science @ NeurIPS)**, </span> 2025 <br>
+<em>Conference on Neural Information Processing Systems</em> <strong>(NeurIPS)</strong>, 2025 <br>
+<em>AI for Science at NeurIPS</em> <strong>(AI4Science @ NeurIPS)</strong>, 2025 <br>
 
 - <font size="4"><b>Graph Generation with Diffusion Mixture</b></font> [[paper]](https://arxiv.org/abs/2302.03596) <br>
 &#x200B;Jaehyeong Jo\*, <U>Dongki Kim</U>\*, Sung Ju Hwang <br>
-<span> International Conference on Machine Learning **(ICML)**, </span> 2024 <br>
-<span> Machine Learning for Drug Discovery Workshop at ICLR **(MLDD @ ICLR)**, </span> 2023 **(Spotlight)**
+<em>International Conference on Machine Learning</em> <strong>(ICML)</strong>, 2024 <br>
+<em>Machine Learning for Drug Discovery Workshop at ICLR</em> <strong>(MLDD @ ICLR)</strong>, 2023 **(Spotlight)**
 
 - <font size="4"><b>Protein Representation Learning by Capturing Protein Sequence-Structure-Function Relationship</b></font> [[paper]](https://arxiv.org/abs/2405.06663) <br>
 &#x200B;Eunki Ko\*, Seul Lee\*, Minseon Kim\*, <U>Dongki Kim</U>, Sung Ju Hwang\* <br> 
-<span> ICLR Machine Learning for Genomics Explorations Workshop **(MLGenX @ ICLR)**</span>, 2024 **(Spotlight)**
+<em>ICLR Machine Learning for Genomics Explorations Workshop</em> <strong>(MLGenX @ ICLR)</strong>, 2024 **(Spotlight)**
 
 - <font size="4"><b>Antibody-SGM: Antigen-Specific Joint Design of Antibody Sequence and Structure using Diffusion Models</b></font> [[paper]](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper143.pdf) <br>
 &#x200B; Xuezhi Xie, Jin Sub Lee, <U>Dongki Kim</U>, Jaehyeong Jo, Jisun Kim, Philip M. Kim <br>
-<span> Computation Biology Workshop at ICML **(CompBio @ ICML)**, </span> 2023
+<em>Computation Biology Workshop at ICML</em> <strong>(CompBio @ ICML)</strong>, 2023
 
 - <font size="4"><b>Graph Self-supervised Learning with Accurate Discrepancy Learning</b></font> [[paper]](https://arxiv.org/abs/2202.02989) <br>
 &#x200B;<U>Dongki Kim</U>\*, Jinheon Baek\*, Sung Ju Hwang <br>
-<span> Conference on Neural Information Processing Systems **(NeurIPS)**, </span> 2022
+<em>Conference on Neural Information Processing Systems</em> <strong>(NeurIPS)</strong>, 2022
 
 - <font size="4"><b>Edge Representation Learning with Hypergraphs</b></font> [[paper]](https://arxiv.org/abs/2106.15845) <br>
 &#x200B;Jaehyeong Jo\*, Jinheon Baek\*, Seul Lee\*, <U>Dongki Kim</U>, Minki Kang, Sung Ju Hwang <br>
-<span> Conference on Neural Information Processing Systems **(NeurIPS)**, </span> 2021
+<em>Conference on Neural Information Processing Systems</em> <strong>(NeurIPS)</strong>, 2021
