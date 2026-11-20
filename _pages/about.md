@@ -14,6 +14,10 @@ Email: cleverki [at] kaist [dot] ac [dot] kr <br>
 
 ## Publications
 
+- <font size="4"><b>Predicting conformational changes induced by biomolecular interactions</b></font> [[paper]](https://doi.org/10.64898/2026.10.26.760299) <br>
+&#x200B;Yeongnam Bae, Jinheon Baek, Eugene Choi, Jeong Hun Choi, Hyeongyu Han, Hyosoon Jang, Woosung Jeon, Jaehyeong Jo, <U>Dongki Kim</U>, Hyeongwoo Kim, Jun Hyeong Kim, Jun Hyeong Kim, Shinwoo Kim, Taewon Kim, Youngchan Kim, Joongwon Lee, Junyup Lee, Seokhyun Moon, Minha Park, Calvin Samuel, Hyunjin Seo, Jisu Seo, Seonghwan Seo, Mingyeong Shin, Yunsu Shin, Wonho Zhung, Sungsoo Ahn, Dongsu Han, Sung Ju Hwang, Ho Min Kim, Woo Youn Kim, Gyu Rie Lee, Byung-Ha Oh <br>
+bioRxiv preprint, 2026
+
 - <font size="4"><b>Principia: Test-Time Hypotheses to Principle Construction for Scientific Discovery</b></font> [[paper]](https://arxiv.org/abs/2610.32195) <br>
 &#x200B;<U>Dongki Kim</U>\*, Sangwoo Park\*, Jinheon Baek, Soyeong Jeong, Sung Ju Hwang <br>
 arXiv preprint, 2026
